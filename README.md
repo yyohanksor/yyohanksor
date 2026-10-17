@@ -31,7 +31,9 @@ My objective is to begin a career in cybersecurity where I can apply my technica
 
 ## Certifications
 <div>
-  <img src="https://img.shields.io/badge/CompTIA-Security%2B%20(SY0--701)-FF0000?style=for-the-badge&logo=comptia&logoColor=white" />
+<a href="https://cp.certmetrics.com/CompTIA/en/public/verify/credential/0cabccc111e547dea8249b77ff9f7f4e" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B%20(SY0--701)-FF0000?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+ SY0-701 — Verify Certification" />
+</a>
   <img src="https://img.shields.io/badge/Google-Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </div>
 
