@@ -10,9 +10,9 @@ My objective is to begin a career in cybersecurity where I can apply my technica
 
 ## Skills
 
-| Skill | Associated Project |
-| SIEM Log Analysis and Investigation (Splunk) | [SOC Lab – Incident Response](https://github.com/yyohanksor/soc-lab-incident-response) |
-| Windows Event Monitoring and Analysis (Sysmon) | [SOC Lab – Incident Response](https://github.com/yyohanksor/soc-lab-incident-response) |
+| Skill                                                    | Associated Project                                                                     |
+| SIEM Log Analysis and Investigation (Splunk)             | [SOC Lab – Incident Response](https://github.com/yyohanksor/soc-lab-incident-response) |
+| Windows Event Monitoring and Analysis (Sysmon)           | [SOC Lab – Incident Response](https://github.com/yyohanksor/soc-lab-incident-response) |
 | Security Incident Investigation and C2 Activity Analysis | [SOC Lab – Incident Response](https://github.com/yyohanksor/soc-lab-incident-response) |
 | Incident Response, Threat Containment, and Documentation | [SOC Lab – Incident Response](https://github.com/yyohanksor/soc-lab-incident-response) |
 
