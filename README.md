@@ -7,11 +7,15 @@ I'm a Computer Science graduate with a passion for cybersecurity and an interest
 
 My objective is to begin a career in cybersecurity where I can apply my technical background, continue developing my skills, and gain hands-on experience. I am particularly interested in pursuing a Tier 1 SOC Analyst position while remaining open to other entry-level cybersecurity opportunities.
 
+
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| N/A                                           | 
+| Skill | Associated Project |
+| SIEM Log Analysis and Investigation (Splunk) | [SOC Lab – Incident Response](https://github.com/yyohanksor/soc-lab-incident-response) |
+| Windows Event Monitoring and Analysis (Sysmon) | [SOC Lab – Incident Response](https://github.com/yyohanksor/soc-lab-incident-response) |
+| Security Incident Investigation and C2 Activity Analysis | [SOC Lab – Incident Response](https://github.com/yyohanksor/soc-lab-incident-response) |
+| Incident Response, Threat Containment, and Documentation | [SOC Lab – Incident Response](https://github.com/yyohanksor/soc-lab-incident-response) |
+
 
 ## Tools
 
