@@ -45,4 +45,6 @@ My objective is to begin a career in cybersecurity where I can apply my technica
 </div>
 
 ## Projects
-- SOC home Lab
+<a href="https://github.com/yyohanksor/soc-lab-incident-response" target="_blank" rel="noopener noreferrer">
+  SOC Home Lab – Incident Response Simulation
+</a>
